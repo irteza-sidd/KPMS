@@ -1,0 +1,105 @@
+E:\HARIS\Work Space\4th Semester\Sda_project\Kiet_Parking_sys\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.exe
+E:\HARIS\Work Space\4th Semester\Sda_project\Kiet_Parking_sys\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.pdb
+E:\HARIS\Work Space\4th Semester\Sda_project\Kiet_Parking_sys\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Form1.resources
+E:\HARIS\Work Space\4th Semester\Sda_project\Kiet_Parking_sys\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Properties.Resources.resources
+E:\HARIS\Work Space\4th Semester\Sda_project\Kiet_Parking_sys\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.csproj.GenerateResource.Cache
+E:\HARIS\Work Space\4th Semester\Sda_project\Kiet_Parking_sys\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.exe
+E:\HARIS\Work Space\4th Semester\Sda_project\Kiet_Parking_sys\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.pdb
+E:\HARIS\Work Space\4th Semester\Sda_project\Kiet_Parking_sys\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.csprojResolveAssemblyReference.cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.exe
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.exe
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.csprojResolveAssemblyReference.cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Form1.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Properties.Resources.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.csproj.GenerateResource.Cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.exe
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.exe
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.csprojResolveAssemblyReference.cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Properties.Resources.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.csproj.GenerateResource.Cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Home.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.LoginPage.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.exe
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.exe
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.csprojResolveAssemblyReference.cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Home.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.LoginPage.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Properties.Resources.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.csproj.GenerateResource.Cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Busform.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Carform.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Scooterform.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Cardept.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.BusDept.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.ScooterDept.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Records.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.exe.config
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\bin\Debug\BLL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\bin\Debug\DAL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\bin\Debug\BLL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\bin\Debug\DAL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Carownerview.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Busownerview.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Scooterownerview.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.exe.config
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.exe
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.exe
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\bin\Debug\BLL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\bin\Debug\DAL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\bin\Debug\BLL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\bin\Debug\DAL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.csprojResolveAssemblyReference.cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.BusDept.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Busform.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Busownerview.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Cardept.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Carform.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Carownerview.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Home.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.LoginPage.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Properties.Resources.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Records.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.ScooterDept.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Scooterform.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Scooterownerview.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.csproj.GenerateResource.Cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.exe.config
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.exe
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.exe
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\bin\Debug\Kiet_Parking_sys.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\bin\Debug\BLL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\bin\Debug\DAL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\bin\Debug\BLL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\bin\Debug\DAL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.csprojResolveAssemblyReference.cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.BusDept.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Busform.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Busownerview.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Cardept.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Carform.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Carownerview.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Home.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.LoginPage.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Properties.Resources.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Records.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.ScooterDept.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Scooterform.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Scooterownerview.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Showinvoiceform.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.csproj.GenerateResource.Cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\RdlCompile.cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\RdlCompile.compiled
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.About.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Developer.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Contact_Us.resources
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\Kiet_Parking_sys\obj\x86\Debug\Kiet_Parking_sys.Transition.resources

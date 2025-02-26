@@ -1,0 +1,14 @@
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\DAL\bin\Debug\DAL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\DAL\bin\Debug\DAL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\DAL\obj\Debug\DAL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\DAL\obj\Debug\DAL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\DAL\bin\Debug\DAL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\DAL\bin\Debug\DAL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\DAL\obj\Debug\DAL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\DAL\obj\Debug\DAL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\DAL\bin\Debug\DAL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\DAL\bin\Debug\DAL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\DAL\obj\Debug\DAL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\DAL\obj\Debug\DAL.pdb

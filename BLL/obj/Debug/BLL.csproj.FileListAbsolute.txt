@@ -1,0 +1,21 @@
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\BLL\bin\Debug\BLL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\BLL\bin\Debug\BLL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\BLL\bin\Debug\DAL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\BLL\bin\Debug\DAL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\BLL\obj\Debug\BLL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy\BLL\obj\Debug\BLL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\BLL\bin\Debug\BLL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\BLL\bin\Debug\BLL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\BLL\bin\Debug\DAL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\BLL\bin\Debug\DAL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\BLL\obj\Debug\BLL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy\BLL\obj\Debug\BLL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\BLL\bin\Debug\BLL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\BLL\bin\Debug\BLL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\BLL\bin\Debug\DAL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\BLL\bin\Debug\DAL.pdb
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\BLL\obj\Debug\BLL.dll
+E:\Irteza Paf_Kiet Material\4th Semester\SDA\Lab\Kiet_Parking_sys1 - Copy - Copy - Copy\BLL\obj\Debug\BLL.pdb
